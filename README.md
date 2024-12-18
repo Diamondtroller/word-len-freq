@@ -10,7 +10,7 @@ Asamblera kursa papilduzdevums. Uzdevums bija uzrakstīt MASM programmu, kas:
 
 Assembly course optional assignment. The task was to write a MASM program, that:
 * reads the contents of a text file from the disk,
-* splits the text using delimiters defined in the program text (`' '`,`.`,`,`,`!`,CR,LF),
+* splits the text using delimiters defined in the program text (` `,`.`,`,`,`!`,CR,LF),
 * counts the amounts of words corresponding to the word lenghts and outputs this in a table
 * output the text file's content
 
